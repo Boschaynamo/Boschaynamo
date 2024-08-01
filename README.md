@@ -5,6 +5,7 @@
 
 Throughout my career, I have been involved in various projects that have required both electronics knowledge and skills in web and software development. One of my standout projects was my involvement in developing a cutting-edge e-commerce platform at Innovatech. I worked on implementing payment gateways, third-party authentications, and immediate response services using technologies like JavaScript, React, Express, Node.js, among others.
 - One of my active participation was in Innovatech e-commerce website project. [Innovatech](https://innovatechok.vercel.app/)
+- [Portfolio](https://nicolas-buszczak-portfolio.vercel.app/).
 
 ## Skills
 ### Web
